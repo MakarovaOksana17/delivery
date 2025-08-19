@@ -21,8 +21,6 @@
 
     <ItemGroup>
       <Folder Include="Application\UseCases\" />
-      <Folder Include="Domian\Model\" />
-      <Folder Include="Domian\Sevices\" />
       <Folder Include="Ports\" />
     </ItemGroup>
 
